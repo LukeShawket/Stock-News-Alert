@@ -44,9 +44,9 @@ Welcome to the Stock and News Alert System repository! This Python application k
 # Contact 📬
 • For any questions or suggestions, feel free to reach out!
 
-• Email: lukeshawket@outlook.com
+• Email: [Luke's Email](lukeshawket@outlook.com)
 
-LinkedIn: [My LinkedIn](https://www.linkedin.com/in/luke-shawket-09206b321/)
+• LinkedIn: [Luke's LinkedIn](https://www.linkedin.com/in/luke-shawket-09206b321/)
 
-GitHub: Your GitHub
+• GitHub: [Lukes's Github](https://github.com/LukeShawket)
    
