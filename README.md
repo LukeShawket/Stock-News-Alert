@@ -38,7 +38,7 @@ Welcome to the Stock and News Alert System repository! This Python application k
 # Usage 🚀
 • Customize your settings in the main.py file and set environment variables.
 
-• Run main.py on cloud everyday get stock and news alert on your phone.
+• Run main.py on cloud everyday to get daily stock and news alert on your phone.
 
 # Contact 📬
 • For any questions or suggestions, feel free to reach out!
