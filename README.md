@@ -1,6 +1,5 @@
 # Stock-News-Tracking-Program 📈📰
 Welcome to the Stock and News Alert System repository! This Python application keeps track of stock prices and sends relevant news alerts directly to your phone via SMS using Twilio.    
-![example](https://github.com/user-attachments/assets/93a668bc-c609-498b-b5b7-4838a140f33f)
 # Features 🌟
 • Stock Monitoring: Keeps an eye on stock price changes using the Polygon API.
 
@@ -49,4 +48,7 @@ Welcome to the Stock and News Alert System repository! This Python application k
 • LinkedIn: [Luke's LinkedIn](https://www.linkedin.com/in/luke-shawket-09206b321/)
 
 • GitHub: [Lukes's Github](https://github.com/LukeShawket)
+
+# Screenshots:
+![example](https://github.com/user-attachments/assets/93a668bc-c609-498b-b5b7-4838a140f33f)
    
